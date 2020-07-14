@@ -1,0 +1,12 @@
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\bin\Debug\netcoreapp3.1\Rapport.Domaine.deps.json
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\bin\Debug\netcoreapp3.1\Rapport.Domaine.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.csprojAssemblyReference.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.AssemblyInfoInputs.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.AssemblyInfo.cs
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\bin\Debug\netcoreapp3.1\Rapport.Domaine.runtimeconfig.json
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\bin\Debug\netcoreapp3.1\Rapport.Domaine.runtimeconfig.dev.json
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\bin\Debug\netcoreapp3.1\Rapport.Domaine.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.csproj.CoreCompileInputs.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Domaine\obj\Debug\netcoreapp3.1\Rapport.Domaine.genruntimeconfig.cache

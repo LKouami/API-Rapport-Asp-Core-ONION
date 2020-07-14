@@ -1,0 +1,12 @@
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\bin\Debug\netcoreapp3.1\Rapport.Service.deps.json
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\bin\Debug\netcoreapp3.1\Rapport.Service.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\bin\Debug\netcoreapp3.1\Rapport.Domaine.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\bin\Debug\netcoreapp3.1\Rapport.Domaine.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.csprojAssemblyReference.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.AssemblyInfoInputs.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.AssemblyInfo.cs
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.csproj.CopyComplete
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\bin\Debug\netcoreapp3.1\Rapport.Service.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.csproj.CoreCompileInputs.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Service\obj\Debug\netcoreapp3.1\Rapport.Service.pdb

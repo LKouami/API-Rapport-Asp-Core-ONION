@@ -1,0 +1,14 @@
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Infrastructure.deps.json
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Infrastructure.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Infrastructure.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Domaine.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Service.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Domaine.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\bin\Debug\netcoreapp3.1\Rapport.Service.pdb
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.csprojAssemblyReference.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.AssemblyInfo.cs
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.csproj.CopyComplete
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.dll
+C:\Users\looka\Documents\Programmation\AFROSOFT\Projets\Rapport.API\Rapport.Infrastructure\obj\Debug\netcoreapp3.1\Rapport.Infrastructure.pdb
